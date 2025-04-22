@@ -1,3 +1,2 @@
-# NEWGIT
-fvfkjnbghub
-author Debojit Sarkar
+# Green-Harvest
+Farmer-Buyer Direct Connection Platform 
